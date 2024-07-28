@@ -40,19 +40,19 @@
     "url": "https://url.crackrepack.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/url.crackrepack.xyz.ico",
     "slug": "url-crackrepack",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 496,
-    "timeDay": 480,
-    "timeWeek": 496,
-    "timeMonth": 496,
-    "timeYear": 496,
+    "status": "up",
+    "uptime": "96.52%",
+    "uptimeDay": "90.09%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "96.52%",
+    "uptimeYear": "96.52%",
+    "time": 484,
+    "timeDay": 459,
+    "timeWeek": 484,
+    "timeMonth": 484,
+    "timeYear": 484,
     "dailyMinutesDown": {
-      "2024-07-28": 0
+      "2024-07-28": 143
     }
   },
   {
