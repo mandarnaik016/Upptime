@@ -7,7 +7,7 @@ sites:
     url: https://www.crackrepack.xyz/
   - name: file.crackrepack
     url: https://file.crackrepack.xyz/
-    __dangerous__body_down_if_text_missing: 'Just a moment...'
+    __dangerous__body_down_if_text_missing: 'Just moment...'
     expectedStatusCodes:
     - 403
   - name: url.crackrepack
