@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/file.crackrepack.xyz.ico",
     "slug": "file-crackrepack",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.62%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 390,
     "timeDay": 322,
     "timeWeek": 390,
     "timeMonth": 390,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2024-07-29": 27
+      "2024-07-29": 22
     }
   },
   {
@@ -44,7 +44,7 @@
     "slug": "url-crackrepack",
     "status": "down",
     "uptime": "97.06%",
-    "uptimeDay": "98.12%",
+    "uptimeDay": "98.11%",
     "uptimeWeek": "97.06%",
     "uptimeMonth": "97.06%",
     "uptimeYear": "97.06%",
@@ -65,7 +65,7 @@
     "slug": "bin-crackrepack",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "98.12%",
+    "uptimeDay": "98.11%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.53%",
