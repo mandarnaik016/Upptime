@@ -7,13 +7,24 @@ sites:
     url: https://www.crackrepack.xyz/
   - name: file.crackrepack
     url: https://file.crackrepack.xyz/
-    __dangerous__body_down_if_text_missing: 'Just moment...'
+    __dangerous__body_down_if_text_missing: 'Just a moment...'
     expectedStatusCodes:
     - 403
   - name: url.crackrepack
     url: https://url.crackrepack.xyz/
+    __dangerous__body_down_if_text_missing: 'Just a moment...'
+    expectedStatusCodes:
+    - 403
   - name: bin.crackrepack
     url: https://bin.crackrepack.xyz/
+    __dangerous__body_down_if_text_missing: 'Just a moment...'
+    expectedStatusCodes:
+    - 403
+  - name: drive.crackrepack
+    url: https://drive.crackrepack.xyz/
+    __dangerous__body_down_if_text_missing: 'Just a moment...'
+    expectedStatusCodes:
+    - 403
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
