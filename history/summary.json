@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.crackrepack.xyz.ico",
     "slug": "crackrepack",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "95.82%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.75%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 217,
     "timeDay": 375,
     "timeWeek": 282,
     "timeMonth": 217,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2024-08-06": 60
+      "2024-08-06": 46
     }
   },
   {
